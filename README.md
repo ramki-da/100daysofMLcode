@@ -5,4 +5,5 @@
 start with numpy package documentation
 
 # Day2 - 02-10-2018
-continue reading the numpy
+continue reading the numpy and practice.
+https://docs.scipy.org/doc/numpy/user/quickstart.html
