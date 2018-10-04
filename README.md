@@ -4,7 +4,7 @@
 # Day1 - 01-10-2018
 start with numpy package documentation
 
-# Day2 - 02-10-2018
+# Day2 & 3 - 02-10-2018 --> Finished Numpy Documentation 
 continue reading the numpy and practice.
 https://docs.scipy.org/doc/numpy/user/quickstart.html
 
@@ -29,3 +29,4 @@ cov, mean, std, var
 # Basic Linear Algebra
 cross, dot, outer, linalg.svd, vdot
 
+# Day4- 04.10.2018 --> Started pandas Documentation
