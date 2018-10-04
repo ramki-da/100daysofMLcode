@@ -30,3 +30,5 @@ cov, mean, std, var
 cross, dot, outer, linalg.svd, vdot
 
 # Day4- 04.10.2018 --> Started pandas Documentation
+
+Added pandas practice file for reference
