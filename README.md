@@ -32,3 +32,13 @@ cross, dot, outer, linalg.svd, vdot
 # Day4- 04.10.2018 --> Started pandas Documentation
 
 Added pandas practice file for reference
+
+Pandas is built on top of Numpy. Pandas has the following features:
+* Data structures with labeled axes
+* Arithmetic Operations and reductions
+* Integrated time series functionality
+* Handling of Missing data
+* Merge, sorting, filtering and other functionlities
+###Data Structures
+Pandas has two kinds of data structure: Series and DataFrame
+
